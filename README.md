@@ -3,6 +3,8 @@
 
 # TUTORIAL PARA RODAR O PROGRAMA
 
+Baixe o arquivo: https://drive.google.com/file/d/1J4LrPvFwOeT9PkpR6RyBRMW1hagizYtd/view?usp=sharing
+
 Instale o xampp que está nesta pasta
 Após instalar o xampp, abra ele e ligue o servidor Apache e MySql
 Após ligar os servidor, clique em admin no MySql
